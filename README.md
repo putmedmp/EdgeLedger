@@ -1,24 +1,25 @@
-# Edge Ledger - website
+# Personal Website
 
 ## Table of contents
 * [Overview](#overview)
 * [General info](#general-info)
 * [Technologies and tools](#technologies-and-tools)
 * [Functionalities](#functionalities)
-* [Inspiration](#inspiration)
 * [Licence](#licence)
 
 ---
 
 ## Overview
-[Here is a link](https://www.markdownguide.org/) to site. I am also attaching a screenshot of the showcase on the site:
+[Here is link](https://mpolakiewicz.com/) to my personal website. I also attached a screenshot of the showcase on the site:
 
-![Website](img/github.png)
+![Website](https://github.com/putmedmp/My_Own_Website/blob/master/img/Website.PNG?raw=true)
 
 ---
 
+
+
 ## General info
-This website was designed for a fictitious financial services company.  The project was created for learning purposes.
+This is a business card-type website designed to introduce my person to potential employers. On the site you will find links to my most important social media accounts and my resume, but also contact information with me, or a brief description of what I do.
 
 ---
 
@@ -31,21 +32,14 @@ This website was designed for a fictitious financial services company.  The proj
 ---
 
 ## Functionalities
-* Three webpages:
-    * Main
-    * Blog
-    * Sample post on blog
-* Navbar with transition effect
+* Working contact form
+* Transparency-changing navbar
 * Smooth-scrolling effect
-* JavaScript Lightbox gallery
-* Ready Contact Form
+* Mobile and tablet version with hamburger menu
 
----
 
-## Inspiration
-The website is inspired by Brad Traversy tutorial.
 
 ---
 
 ## Licence
-Copyright MIT &copy; 2021 Mateusz Polakiewicz
+All rights reserved &copy; 2021 Mateusz Polakiewicz
